@@ -1,0 +1,60 @@
+.connection {
+    max-width: 1440px;
+    height: 444px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    text-align: center;
+    background-image: url("../../public/images/footer.png");
+}
+
+.connection-content {
+    max-width: 1280px;
+    height: 476px;
+    margin-top: 19px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.connection-title {
+    font-family: 'Montserrat-Regular';
+    font-size: 32px;
+    color: #ffffff;
+}
+
+.connection-form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;
+    text-align: center;
+  }
+
+.connection-textarea {
+    height: 120px;
+    padding-top: 10px;
+}
+
+.connection-input {
+    width: 472px;
+    min-height: 40px;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Montserrat-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+}
+
+.connection-button {
+    width: 170px;
+    height: 56px;
+    margin-top: 22px;
+    font-family: 'Montserrat-Regular';
+    font-size: 16px;
+    background-color: #F9F9F9;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,52 @@
+.history {
+    max-width: 1440px;
+    height: 598px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    text-align: center;
+}
+
+.history-content {
+    max-width: 1280px;
+    height: 476px;
+    margin-top: 59px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 1px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.history-card {
+    width: 630px;
+    height: 478px;
+    padding-top: 1px;
+    text-align: left;
+}
+
+.history-card-left {
+    background-color: #2A254B;
+}
+
+.history-card-right {
+    background-image: url("../../public/images/middle.png");
+}
+
+.history-title {
+    margin-top: 64px;
+    margin-left: 63px;
+    font-family: 'ClashDisplay-Regular';
+    font-size: 32px;
+    color: #ffffff;
+}
+
+.history-text {
+    margin-top: 12px;
+    margin-left: 64px;
+    width: 495px;
+    font-family: 'Satoshi-Regular';
+    font-size: 18px;
+    color: #ffffff;
+}

@@ -1,0 +1,56 @@
+.advantages {
+    max-width: 1440px;
+    height: 476px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.advantages-content {
+    max-width: 1280px;
+    height: 476px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.advantages-title {
+    margin-top: 79px;
+    font-size: 24px;
+    font-family: 'ClashDisplay-Regular';
+}
+
+.advantage-content {
+    margin-top: 36px;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.advantage {
+    width: 305px;
+    height: 244px;
+    text-align: left;
+    background-color: #F9F9F9;
+}
+
+.advantage-image {
+    margin-top: 48px;
+    margin-left: 48px;
+}
+
+.advantage-title {
+    margin-top: 12px;
+    margin-left: 48px;
+    font-family: 'ClashDisplay-Regular';
+    font-size: 20px;
+}
+
+.advantage-text {
+    margin-top: 12px;
+    margin-left: 48px;
+    width: 209px;
+    font-family: 'Satoshi-Regular';
+    font-size: 16px;
+}

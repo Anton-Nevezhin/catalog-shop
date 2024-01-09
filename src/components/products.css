@@ -1,0 +1,98 @@
+.shop {
+    max-width: 1440px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    text-align: center;
+}
+
+.shop-content {
+    max-width: 1280px;
+    height: auto;
+    margin-top: 27px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.shop-products {
+    max-width: 1280px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.shop-product {
+    width: 305px;
+    height: 462px;
+    text-align: left;
+}
+
+.product-footer {
+    padding-top: 1px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.shop-title {
+    margin-top: 20px;
+    font-family: 'Montserrat-Regular';
+    font-size: 20px;
+}
+
+.shop-price {
+    margin-top: 8px;
+    font-family: 'Montserrat-Regular';
+    font-size: 18px;
+}
+
+.shop-image {
+    width: 305px;
+    height: 375px;
+}
+
+.product-button {
+    width: 20px;
+    height: 20px;
+    margin-top: 23px;
+    border: none;
+    background-image: url('../../public/images/garbage.jpg');
+    background-size: cover;
+    cursor: pointer;
+}
+
+.shop-button {
+    width: 170px;
+    height: 56px;
+    margin-top: 48px;
+    font-family: 'Montserrat-Regular';
+    font-size: 16px;
+    background-color: #F9F9F9;
+    border: none;
+    cursor: pointer;
+}
+
+.products-input {
+    width: 472px;
+    min-height: 40px;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Montserrat-Regular';
+    font-size: 16px;
+    font-weight: 400;
+    border: 1px solid;
+}
+
+.select-width {
+    width: 504px;
+}
+
+.shop-buttons {
+    display: flex;
+    justify-content: space-between;
+}

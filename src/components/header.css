@@ -1,0 +1,59 @@
+.header {
+    max-width: 1440px;
+    height: 772px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.header-logo {
+    max-width: 1440px;
+    height: 68px;
+    padding-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.header-logo-text {
+    margin-top: 14px;
+    font-family: 'ClashDisplay-Regular';
+    font-size: 24px;
+}
+
+.header-content {
+    max-width: 1440px;
+    height: 704px;
+    padding-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-image: url("../../public/images/header.png");
+}
+
+.header-text {
+    width: 630px;
+    height: 444px;
+    padding-top: 1px;
+    margin-top: 129px;
+    margin-left: 730px;
+    background-color: #fff;
+    /* margin-right: 80px; */
+}
+
+.header-text-title {
+    width: 513px;
+    text-align: left;
+    margin-top: 47px;
+    margin-left: 56px;
+    font-family: 'ClashDisplay-Regular';
+    font-size: 32px;
+}
+
+.header-text-small {
+    margin-top: 20px;
+    margin-left: 56px;
+    text-align: left;
+    font-family: 'Satoshi-Regular';
+    font-size: 18px;
+}

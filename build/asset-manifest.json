@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d9b8893.css",
+    "main.js": "/static/js/main.42d50353.js",
+    "static/js/787.95589e42.chunk.js": "/static/js/787.95589e42.chunk.js",
+    "static/media/header.png": "/static/media/header.68a48466990862ccf4aa.png",
+    "static/media/footer.png": "/static/media/footer.02723261346dcfcc0f07.png",
+    "static/media/middle.png": "/static/media/middle.0516b31e885bb8a1872b.png",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-Medium.woff": "/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
+    "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
+    "static/media/Satoshi-Regular.woff": "/static/media/Satoshi-Regular.d5f0d1c9b44b05642e89.woff",
+    "static/media/Satoshi-Regular.woff2": "/static/media/Satoshi-Regular.c1025c70bd1c917b606f.woff2",
+    "static/media/ClashDisplay-Medium.woff": "/static/media/ClashDisplay-Medium.d059aba57d21630bbeb1.woff",
+    "static/media/ClashDisplay-Regular.woff": "/static/media/ClashDisplay-Regular.bddfbdc9d46fb063a682.woff",
+    "static/media/ClashDisplay-Medium.woff2": "/static/media/ClashDisplay-Medium.88a32cc8fc026d95af05.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "index.html": "/index.html",
+    "main.2d9b8893.css.map": "/static/css/main.2d9b8893.css.map",
+    "main.42d50353.js.map": "/static/js/main.42d50353.js.map",
+    "787.95589e42.chunk.js.map": "/static/js/787.95589e42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9b8893.css",
+    "static/js/main.42d50353.js"
+  ]
+}
